@@ -1,0 +1,14 @@
+C:\Users\Jan\Desktop\koulu\tehtäviä\obj\Debug\netcoreapp2.1\tehtäviä.csprojAssemblyReference.cache
+C:\Users\Jan\Desktop\koulu\tehtäviä\obj\Debug\netcoreapp2.1\tehtäviä.csproj.CoreCompileInputs.cache
+C:\Users\Jan\Desktop\koulu\tehtäviä\obj\Debug\netcoreapp2.1\tehtäviä.RazorAssemblyInfo.cache
+C:\Users\Jan\Desktop\koulu\tehtäviä\obj\Debug\netcoreapp2.1\tehtäviä.RazorAssemblyInfo.cs
+C:\Users\Jan\Desktop\koulu\tehtäviä\obj\Debug\netcoreapp2.1\tehtäviä.AssemblyInfoInputs.cache
+C:\Users\Jan\Desktop\koulu\tehtäviä\obj\Debug\netcoreapp2.1\tehtäviä.AssemblyInfo.cs
+C:\Users\Jan\Desktop\koulu\tehtäviä\bin\Debug\netcoreapp2.1\tehtäviä.deps.json
+C:\Users\Jan\Desktop\koulu\tehtäviä\bin\Debug\netcoreapp2.1\tehtäviä.runtimeconfig.json
+C:\Users\Jan\Desktop\koulu\tehtäviä\bin\Debug\netcoreapp2.1\tehtäviä.runtimeconfig.dev.json
+C:\Users\Jan\Desktop\koulu\tehtäviä\bin\Debug\netcoreapp2.1\tehtäviä.dll
+C:\Users\Jan\Desktop\koulu\tehtäviä\bin\Debug\netcoreapp2.1\tehtäviä.pdb
+C:\Users\Jan\Desktop\koulu\tehtäviä\obj\Debug\netcoreapp2.1\tehtäviä.RazorTargetAssemblyInfo.cache
+C:\Users\Jan\Desktop\koulu\tehtäviä\obj\Debug\netcoreapp2.1\tehtäviä.dll
+C:\Users\Jan\Desktop\koulu\tehtäviä\obj\Debug\netcoreapp2.1\tehtäviä.pdb
